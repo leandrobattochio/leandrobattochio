@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 
 ## Welcome! :)
-🔭 I’m currently focused on developing backend solutions, using API REST model.
-📫 Feel free to contact me on LinkedIn :)
+- 🔭 I’m currently focused on developing backend solutions, using API REST model.
+- 📫 Feel free to contact me on LinkedIn :)
 
  <div>
   <a href="https://github.com/leandrobattochio">
