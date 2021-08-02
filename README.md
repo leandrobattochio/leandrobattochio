@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-## Bem-vindo! :)
+## Welcome! :)
+🔭 I’m currently focused on developing backend solutions, using API REST model.
+📫 Feel free to contact me on LinkedIn :)
+
  <div>
   <a href="https://github.com/leandrobattochio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrobattochio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
